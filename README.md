@@ -1,2 +1,3 @@
 # Gitsample
-Sample task
+Sample task.
+This is the first task
